@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drawer</string>
+    <string name="sortear">Draw</string>
+    <string name="utilizar_limite">Use limit</string>
+    <string name="hint">Maximum value (opcional)</string>
+    <string name="inicie_o_sorteio">Start the draw</string>
+    <string name="sorteio_de_1_a_1000">Draw from 1 to 1000</string>
+</resources>
